@@ -1,0 +1,69 @@
+html,body{
+
+}
+
+#bg 
+{	
+	position:fixed;
+	background: cover;
+  background: linear-gradient(145deg, #181818 50%, #121212 115%);
+  width: auto;
+  height: auto;
+	margin: 0;
+  padding: 0;
+  z-index: -2;
+}
+
+.navbar li a{
+    font-size: 20px;
+    color: #fff;
+}
+
+.navbar-brand{
+    color: #fff;
+}
+
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+section{
+    padding-top: 100px;
+}
+
+h1{
+    font-size: 80px;
+    color: #fff;
+}
+
+p{
+    color: #d3d3d3;
+    font-size: 25px;
+}
+
+span{
+    font-size: 20px;
+    color: #fff;
+}
+
+.box1{
+    margin-left: 150px;
+    padding: 150px 60px 80px 60px;
+    margin-top: 280px;
+    background: rgba(255, 255, 255, .3);
+    clip-path: polygon(0% 0%, 100% 0, 100% 71%, 75% 100%, 0% 100%);
+}
+
+.box1 h1{
+    font-size: 50px;
+    color: #fff;
+}
+
+.box1 p {
+    font-size: 50px;
+}
+
+.dollar{
+    color: #808080;
+}
