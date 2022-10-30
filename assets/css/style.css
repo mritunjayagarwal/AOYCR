@@ -25,7 +25,7 @@ html,body{
 }
 
 .navbar li a:hover{
-    color: #FFD62B;
+    color: #EE2B25;
     text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ p{
 }
 
 .active{
-    color: #FFD62B !important;
+    color: #EE2B25 !important;
 }
 
 .active:hover{
